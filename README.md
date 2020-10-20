@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Run Buddy Inc
-=======
 # Run Buddy, Inc.
->>>>>>> 9d4653fa90cfe0a340483839a515555af658a875
 
 ## Purpose
 A website that offers fitness training services.
@@ -18,3 +14,4 @@ https://dcharney.github.io/run-buddy/
 Made with ❤️ by Delaney Charney
 
 ### ©️2019 Run Buddy, Inc 
+s
