@@ -221,6 +221,9 @@ section {
 .step-text p {
     color: #39a6b2;
     font-size: 18px;
+}
+
+.step-text {
     flex: 12;
 }
 
