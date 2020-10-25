@@ -14,4 +14,3 @@ https://dcharney.github.io/run-buddy/
 Made with ❤️ by Delaney Charney
 
 ### ©️2019 Run Buddy, Inc 
-s
