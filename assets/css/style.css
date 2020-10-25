@@ -374,11 +374,12 @@ section {
 
 .trainer-3 {
     background-image: url("../images/trainer-3.jpg");
+    background-position: 100% 20%;
 }
 
 .trainer-img {
     width: 100%;
-    min-height: 300px;
+    min-height: 400px;
     display: flex;
     padding: 15px;
     align-items: flex-end;
